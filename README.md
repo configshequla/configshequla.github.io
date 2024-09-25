@@ -1,2 +1,2 @@
 # configshequla.github.io
-Shequla.com Config Data
+config.shequla.com Data
