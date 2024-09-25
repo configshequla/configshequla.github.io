@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<root>  
+  <!--程序是否可用 OK为可用-->
+  <Windows_state>OK</Windows_state>
+  
+  <!--程序不可用提示-->
+  <Windows_state_info>
+    因服务器维护，软件暂时停止使用，请稍后重试！！！
+  </Windows_state_info>
+
+  <!--软件最新版本-->
+  <Windows_Ver>1.0.0.0</Windows_Ver>
+  
+   <!--软件更新版本-->
+   <Updata_Ver_Url>https://www.shequla.com/thread-2.htm</Updata_Ver_Url>
+</root>
